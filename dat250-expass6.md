@@ -3,6 +3,8 @@
 ## Overview
 Objective of assignment: Prepare a simple GUI for the poll REST API using an SPA Framework/Library.
 
+Link to the backend app: https://github.com/PawelSkorupa/DAT250-lab2-3-backend
+
 ## Step 1: Set up Node project
 Using nvm for windows, I updated my already installed Node version to the latest one. Then, I set up an empty React project using create-react-app.
 
